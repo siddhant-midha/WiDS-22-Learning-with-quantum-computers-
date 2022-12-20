@@ -23,5 +23,7 @@ This project will be four weeks long. The brief week-wise breakdown is as follow
   - _QRL (both)_
     * Necessary: Chapter 2, 4, 5, 6 (for mentees doing the literature review, chapter 8 might also be useful) 
 
+Please find the implementation problems for the first week [here](https://github.com/siddhant-midha/WiDS-22-Learning-with-quantum-computers-/blob/main/problems/set1.md). 
+
 **Note**
 Note that for the completion of the WiDS project, a report is necessary. While the report format is up to you, we recommend writing the report using LaTeX. This can essentially be where you note down things which you do on a weekly basis. For the lit review people, this report should preferably be in a paper format (for instance, [IEEE](https://www.ieee.org/conferences/publishing/templates.html), or [APS REVTeX](https://journals.aps.org/revtex/revtex-faq#u1)). Other people can also follow this.
